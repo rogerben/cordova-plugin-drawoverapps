@@ -38,7 +38,7 @@ import android.content.pm.PackageManager;
 import android.provider.Settings;
 import android.util.Log;
 import android.net.Uri;
-import android.R;
+
 
 import org.apache.cordova.overApps.Services.OverAppsService;
 import org.apache.cordova.overApps.Services.ServiceParameters;
